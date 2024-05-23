@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What is the correct syntax to declare a JavaScript variable?",
+    "answer_1": "let myVariable;",
+    "answer_2": "l myVariable;",
+    "answer_3": "variable myVariable;",
+    "answer_4": "declare myVariable;",
+    "right_answer": 1
+  },
+  {
+    "question": "How do you write a comment in JavaScript?",
+    "answer_1": "// This is a comment",
+    "answer_2": "/* This is a comment */",
+    "answer_3": "< !-- This is a comment -- >",
+    "answer_4": "# This is a comment",
+    "right_answer": 1
+  },
+  {
+    "question": "Which method is used to find the length of a string in JavaScript?",
+    "answer_1": "length()",
+    "answer_2": "size()",
+    "answer_3": "len()",
+    "answer_4": "length",
+    "right_answer": 4
+  },
+  {
+    "question": "Which company developed JavaScript?",
+    "answer_1": "Microsoft",
+    "answer_2": "Netscape",
+    "answer_3": "Google",
+    "answer_4": "Apple",
+    "right_answer": 2
+  },
+  {
+    "question": "How do you create a function in JavaScript?",
+    "answer_1": "function myFunction()",
+    "answer_2": "def myFunction()",
+    "answer_3": "create myFunction()",
+    "answer_4": "lambda myFunction()",
+    "right_answer": 1
+  },
+  {
+    "question": "How do you call a function named 'myFunction'?",
+    "answer_1": "call myFunction()",
+    "answer_2": "myFunction()",
+    "answer_3": "call function myFunction()",
+    "answer_4": "execute myFunction()",
+    "right_answer": 2
+  },
+  {
+    "question": "Which keyword is used to define a variable in JavaScript?",
+    "answer_1": "var",
+    "answer_2": "let",
+    "answer_3": "const",
+    "answer_4": "All of the above",
+    "right_answer": 4
+  },
+  {
+    "question": "How do you declare a JavaScript array?",
+    "answer_1": "var colors = 'red', 'green', 'blue'",
+    "answer_2": "var colors = (1:'red', 2:'green', 3:'blue')",
+    "answer_3": "var colors = ['red', 'green', 'blue']",
+    "answer_4": "var colors = 'red' + 'green' + 'blue'",
+    "right_answer": 3
+  },
+  {
+    "question": "Which event occurs when the user clicks on an HTML element?",
+    "answer_1": "onchange",
+    "answer_2": "onclick",
+    "answer_3": "onmouseclick",
+    "answer_4": "onmouseover",
+    "right_answer": 2
+  },
+  {
+    "question": "How do you round the number 7.25 to the nearest integer?",
+    "answer_1": "Math.round(7.25)",
+    "answer_2": "round(7.25)",
+    "answer_3": "Math.rnd(7.25)",
+    "answer_4": "rnd(7.25)",
+    "right_answer": 1
+  }
+]

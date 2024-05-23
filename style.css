@@ -16,3 +16,31 @@ body {
 .bg-danger {
   color: white !important;
 }
+
+.menu {
+  display: flex;
+  flex-direction: column;
+  height: 70%;
+  justify-content: flex-end;
+  gap: 5px;
+}
+
+.menu a {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.menu a:hover {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+@media (max-width: 767px) {
+  .menu {
+    height: 50%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What does CSS stand for?",
+    "answer_1": "Creative Style Sheets",
+    "answer_2": "Cascading Style Sheets",
+    "answer_3": "Computer Style Sheets",
+    "answer_4": "Colorful Style Sheets",
+    "right_answer": 2
+  },
+  {
+    "question": "Which HTML tag is used to define an internal style sheet?",
+    "answer_1": "< css >",
+    "answer_2": "< script >",
+    "answer_3": "< style >",
+    "answer_4": "< link >",
+    "right_answer": 3
+  },
+  {
+    "question": "Which property is used to change the background color?",
+    "answer_1": "color",
+    "answer_2": "bgcolor",
+    "answer_3": "background-color",
+    "answer_4": "background",
+    "right_answer": 3
+  },
+  {
+    "question": "Which property is used to change the text color of an element?",
+    "answer_1": "color",
+    "answer_2": "text-color",
+    "answer_3": "font-color",
+    "answer_4": "text-style",
+    "right_answer": 1
+  },
+  {
+    "question": "Which CSS property controls the text size?",
+    "answer_1": "font-style",
+    "answer_2": "text-size",
+    "answer_3": "font-size",
+    "answer_4": "text-style",
+    "right_answer": 3
+  },
+  {
+    "question": "How do you make each word in a text start with a capital letter?",
+    "answer_1": "text-transform: capitalize",
+    "answer_2": "text-transform: uppercase",
+    "answer_3": "text-transform: lowercase",
+    "answer_4": "You can't do that with CSS",
+    "right_answer": 1
+  },
+  {
+    "question": "Which property is used to change the font of an element?",
+    "answer_1": "font-family",
+    "answer_2": "font-style",
+    "answer_3": "font-weight",
+    "answer_4": "font-size",
+    "right_answer": 1
+  },
+  {
+    "question": "How do you make the text bold?",
+    "answer_1": "font-weight: bold",
+    "answer_2": "font-style: bold",
+    "answer_3": "font: bold",
+    "answer_4": "style: bold",
+    "right_answer": 1
+  },
+  {
+    "question": "Which property is used to change the left margin of an element?",
+    "answer_1": "padding-left",
+    "answer_2": "margin-left",
+    "answer_3": "padding",
+    "answer_4": "margin",
+    "right_answer": 2
+  },
+  {
+    "question": "How do you select an element with id 'example'?",
+    "answer_1": ".example",
+    "answer_2": "*example",
+    "answer_3": "example",
+    "answer_4": "#example",
+    "right_answer": 4
+  }
+]
